@@ -1,0 +1,4 @@
+interface:
+  display_name: "Go Darkwolf Style"
+  short_description: "Write Go using Darkwolf domain and handler patterns"
+  default_prompt: "Use $go-darkwolf-style to implement this Go change using the applicable Darkwolf conventions."
